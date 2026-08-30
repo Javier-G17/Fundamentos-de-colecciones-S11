@@ -1,0 +1,22 @@
+[
+    {
+        "usuario_id": "2101227094",
+        "producto_codigo": "01",
+        "cantidad": 2
+    },
+    {
+        "usuario_id": "2101227094",
+        "producto_codigo": "04",
+        "cantidad": 10
+    },
+    {
+        "usuario_id": "1756249411",
+        "producto_codigo": "01",
+        "cantidad": 5
+    },
+    {
+        "usuario_id": "2101227094",
+        "producto_codigo": "04",
+        "cantidad": 5
+    }
+]

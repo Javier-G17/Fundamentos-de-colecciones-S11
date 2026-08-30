@@ -37,7 +37,15 @@ class Usuario:
         if not valor or not valor.strip():
             raise ValueError("El correo no puede estar vacio.")
         self._correo = valor.strip()
+    def convertir_a_diccionario(self) -> dict:
 
+        # El usuario tambien se puede guardar en JSON.
+        return {
+            "identificacion": self.identificacion,
+            "nombre": self.nombre,
+            "correo": self.correo,
+        }
+    
     def __str__(self) -> str:
         return (
             f"Identificacion: {self.identificacion} | " 

@@ -1,0 +1,30 @@
+[
+    {
+        "codigo": "01",
+        "nombre": "Mermelada",
+        "categoria": "comestible",
+        "precio": 2.5,
+        "stock": 12
+    },
+    {
+        "codigo": "02",
+        "nombre": "sal",
+        "categoria": "comestible",
+        "precio": 0.5,
+        "stock": 5
+    },
+    {
+        "codigo": "03",
+        "nombre": "Chocolate",
+        "categoria": "comestible",
+        "precio": 5.75,
+        "stock": 6
+    },
+    {
+        "codigo": "04",
+        "nombre": "Coca cola",
+        "categoria": "bebidas",
+        "precio": 3.25,
+        "stock": 0
+    }
+]
