@@ -2,7 +2,7 @@
 
 ## Datos del estudiante
 
-## Nombre: Bonner Javier García Guanga
+**Nombre**: Bonner Javier García Guanga
 
 ---
 
@@ -191,7 +191,7 @@ Estas excepciones permiten que la aplicación continúe funcionando sin finaliza
 
 ---
 
-Forma de ejecución
+## Forma de ejecución
 
 1. Abrir el proyecto en Visual Studio Code.
 2. Verificar que la estructura de carpetas sea correcta.
@@ -220,6 +220,6 @@ Para verificar el correcto funcionamiento del sistema se realizaron las siguient
 
 ---
 
-Conclusión
+## Conclusión
 
 La implementación de la Semana 11 permitió ampliar el sistema mediante la incorporación de relaciones entre objetos utilizando la clase Venta. Además, se fortaleció el manejo de persistencia mediante archivos JSON para productos, usuarios y ventas, manteniendo una arquitectura modular basada en Programación Orientada a Objetos y aplicando buenas prácticas de validación y manejo de excepciones.
